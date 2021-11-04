@@ -7,3 +7,4 @@ function ImprimeNomes(nome){
 }
 
 nomes.forEach(nome => console.log(nome))
+
